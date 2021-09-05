@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "seasonString": "2019-20"
+    },
+    {
+        "id": 3,
+        "seasonString": "2020-21"
+    },
+    {
+        "id": 4,
+        "seasonString": "2018-19"
+    }
+]

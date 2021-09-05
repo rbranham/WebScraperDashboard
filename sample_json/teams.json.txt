@@ -1,0 +1,57 @@
+[
+    {
+        "id": 1,
+        "teamName": "South Shore",
+        "town": "Port Wing"
+    },
+    {
+        "id": 3,
+        "teamName": "Bayfield",
+        "town": null
+    },
+    {
+        "id": 4,
+        "teamName": "",
+        "town": null
+    },
+    {
+        "id": 5,
+        "teamName": "Hurley",
+        "town": null
+    },
+    {
+        "id": 6,
+        "teamName": "Drummond",
+        "town": null
+    },
+    {
+        "id": 7,
+        "teamName": "Mellen",
+        "town": null
+    },
+    {
+        "id": 8,
+        "teamName": "Solon Springs",
+        "town": null
+    },
+    {
+        "id": 9,
+        "teamName": "Butternut",
+        "town": null
+    },
+    {
+        "id": 10,
+        "teamName": "Washburn",
+        "town": null
+    },
+    {
+        "id": 11,
+        "teamName": "Mercer",
+        "town": null
+    },
+    {
+        "id": 12,
+        "teamName": "Ironwood (MI)",
+        "town": null
+    }
+]
