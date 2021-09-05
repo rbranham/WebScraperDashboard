@@ -1,16 +1,23 @@
-# This is a sample Python script.
-
-# Press Shift+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
+import json;
 
 
-def print_hi(name):
-    # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
+def loadTeams():
+    """ Function to load teams, currently pulls from mock data, eventually could pull from an API"""
+    return json.load(open('sample_json/teams.json'))
+
+
+def loadConferenceStats(confId: int):
+    """ Function to load stats, currently returns mock data"""
+    return json.load(open('sample_json/conference_one.json'))
 
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    print_hi('PyCharm')
+    for stat in loadConferenceStats(1):
+        print(stat)
 
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
+
+    # teams = loadTeams()
+    # for team in teams:
+    #     print(team)
+
