@@ -1,0 +1,2066 @@
+[
+    {
+        "seasonId": 1,
+        "conferenceId": 4,
+        "teamId": 25,
+        "wins": 12,
+        "losses": 0,
+        "overall": "22-1-0"
+    },
+    {
+        "seasonId": 3,
+        "conferenceId": 4,
+        "teamId": 25,
+        "wins": 0,
+        "losses": 0,
+        "overall": "0-0-0"
+    },
+    {
+        "seasonId": 4,
+        "conferenceId": 4,
+        "teamId": 25,
+        "wins": 5,
+        "losses": 6,
+        "overall": "12-9-0"
+    },
+    {
+        "seasonId": 5,
+        "conferenceId": 4,
+        "teamId": 25,
+        "wins": 8,
+        "losses": 4,
+        "overall": "13-9-0"
+    },
+    {
+        "seasonId": 6,
+        "conferenceId": 4,
+        "teamId": 25,
+        "wins": 4,
+        "losses": 8,
+        "overall": "7-16-0"
+    },
+    {
+        "seasonId": 7,
+        "conferenceId": 4,
+        "teamId": 25,
+        "wins": 7,
+        "losses": 5,
+        "overall": "15-9-0"
+    },
+    {
+        "seasonId": 8,
+        "conferenceId": 4,
+        "teamId": 25,
+        "wins": 12,
+        "losses": 0,
+        "overall": "22-3-0"
+    },
+    {
+        "seasonId": 9,
+        "conferenceId": 4,
+        "teamId": 25,
+        "wins": 10,
+        "losses": 1,
+        "overall": "24-3-0"
+    },
+    {
+        "seasonId": 10,
+        "conferenceId": 4,
+        "teamId": 25,
+        "wins": 11,
+        "losses": 1,
+        "overall": "22-5-0"
+    },
+    {
+        "seasonId": 11,
+        "conferenceId": 4,
+        "teamId": 25,
+        "wins": 13,
+        "losses": 0,
+        "overall": "24-2-0"
+    },
+    {
+        "seasonId": 12,
+        "conferenceId": 4,
+        "teamId": 25,
+        "wins": 11,
+        "losses": 2,
+        "overall": "22-3-0"
+    },
+    {
+        "seasonId": 13,
+        "conferenceId": 4,
+        "teamId": 25,
+        "wins": 10,
+        "losses": 3,
+        "overall": "17-7-0"
+    },
+    {
+        "seasonId": 14,
+        "conferenceId": 4,
+        "teamId": 25,
+        "wins": 9,
+        "losses": 4,
+        "overall": "14-6-0"
+    },
+    {
+        "seasonId": 15,
+        "conferenceId": 4,
+        "teamId": 25,
+        "wins": 9,
+        "losses": 3,
+        "overall": "18-6-0"
+    },
+    {
+        "seasonId": 16,
+        "conferenceId": 4,
+        "teamId": 25,
+        "wins": 9,
+        "losses": 3,
+        "overall": "17-8-0"
+    },
+    {
+        "seasonId": 17,
+        "conferenceId": 4,
+        "teamId": 25,
+        "wins": 15,
+        "losses": 0,
+        "overall": "21-4-0"
+    },
+    {
+        "seasonId": 18,
+        "conferenceId": 4,
+        "teamId": 25,
+        "wins": 11,
+        "losses": 3,
+        "overall": "16-6-0"
+    },
+    {
+        "seasonId": 19,
+        "conferenceId": 4,
+        "teamId": 25,
+        "wins": 14,
+        "losses": 1,
+        "overall": "23-3-0"
+    },
+    {
+        "seasonId": 20,
+        "conferenceId": 4,
+        "teamId": 25,
+        "wins": 12,
+        "losses": 0,
+        "overall": "23-0-0"
+    },
+    {
+        "seasonId": 1,
+        "conferenceId": 4,
+        "teamId": 26,
+        "wins": 10,
+        "losses": 2,
+        "overall": "15-8-0"
+    },
+    {
+        "seasonId": 3,
+        "conferenceId": 4,
+        "teamId": 26,
+        "wins": 0,
+        "losses": 0,
+        "overall": "0-0-0"
+    },
+    {
+        "seasonId": 4,
+        "conferenceId": 4,
+        "teamId": 26,
+        "wins": 8,
+        "losses": 4,
+        "overall": "10-13-0"
+    },
+    {
+        "seasonId": 5,
+        "conferenceId": 4,
+        "teamId": 26,
+        "wins": 8,
+        "losses": 4,
+        "overall": "13-11-0"
+    },
+    {
+        "seasonId": 6,
+        "conferenceId": 4,
+        "teamId": 26,
+        "wins": 9,
+        "losses": 3,
+        "overall": "14-9-0"
+    },
+    {
+        "seasonId": 7,
+        "conferenceId": 4,
+        "teamId": 26,
+        "wins": 7,
+        "losses": 5,
+        "overall": "15-9-0"
+    },
+    {
+        "seasonId": 8,
+        "conferenceId": 4,
+        "teamId": 26,
+        "wins": 7,
+        "losses": 5,
+        "overall": "13-10-0"
+    },
+    {
+        "seasonId": 9,
+        "conferenceId": 4,
+        "teamId": 26,
+        "wins": 11,
+        "losses": 0,
+        "overall": "17-6-0"
+    },
+    {
+        "seasonId": 10,
+        "conferenceId": 4,
+        "teamId": 26,
+        "wins": 10,
+        "losses": 2,
+        "overall": "22-3-0"
+    },
+    {
+        "seasonId": 11,
+        "conferenceId": 4,
+        "teamId": 26,
+        "wins": 9,
+        "losses": 4,
+        "overall": "19-6-0"
+    },
+    {
+        "seasonId": 12,
+        "conferenceId": 4,
+        "teamId": 26,
+        "wins": 10,
+        "losses": 3,
+        "overall": "20-7-0"
+    },
+    {
+        "seasonId": 13,
+        "conferenceId": 4,
+        "teamId": 26,
+        "wins": 12,
+        "losses": 1,
+        "overall": "20-4-0"
+    },
+    {
+        "seasonId": 14,
+        "conferenceId": 4,
+        "teamId": 26,
+        "wins": 12,
+        "losses": 1,
+        "overall": "19-4-0"
+    },
+    {
+        "seasonId": 15,
+        "conferenceId": 4,
+        "teamId": 26,
+        "wins": 1,
+        "losses": 11,
+        "overall": "3-18-0"
+    },
+    {
+        "seasonId": 16,
+        "conferenceId": 4,
+        "teamId": 26,
+        "wins": 1,
+        "losses": 11,
+        "overall": "4-16-0"
+    },
+    {
+        "seasonId": 17,
+        "conferenceId": 4,
+        "teamId": 26,
+        "wins": 1,
+        "losses": 13,
+        "overall": "5-17-0"
+    },
+    {
+        "seasonId": 18,
+        "conferenceId": 4,
+        "teamId": 26,
+        "wins": 1,
+        "losses": 12,
+        "overall": "1-20-0"
+    },
+    {
+        "seasonId": 19,
+        "conferenceId": 4,
+        "teamId": 26,
+        "wins": 4,
+        "losses": 9,
+        "overall": "5-16-0"
+    },
+    {
+        "seasonId": 20,
+        "conferenceId": 4,
+        "teamId": 26,
+        "wins": 1,
+        "losses": 12,
+        "overall": "3-18-0"
+    },
+    {
+        "seasonId": 1,
+        "conferenceId": 4,
+        "teamId": 27,
+        "wins": 10,
+        "losses": 2,
+        "overall": "14-9-0"
+    },
+    {
+        "seasonId": 3,
+        "conferenceId": 4,
+        "teamId": 27,
+        "wins": 0,
+        "losses": 0,
+        "overall": "0-0-0"
+    },
+    {
+        "seasonId": 4,
+        "conferenceId": 4,
+        "teamId": 27,
+        "wins": 10,
+        "losses": 1,
+        "overall": "21-3-0"
+    },
+    {
+        "seasonId": 5,
+        "conferenceId": 4,
+        "teamId": 27,
+        "wins": 5,
+        "losses": 7,
+        "overall": "11-13-0"
+    },
+    {
+        "seasonId": 6,
+        "conferenceId": 4,
+        "teamId": 27,
+        "wins": 4,
+        "losses": 8,
+        "overall": "9-15-0"
+    },
+    {
+        "seasonId": 7,
+        "conferenceId": 4,
+        "teamId": 27,
+        "wins": 5,
+        "losses": 7,
+        "overall": "13-11-0"
+    },
+    {
+        "seasonId": 8,
+        "conferenceId": 4,
+        "teamId": 27,
+        "wins": 5,
+        "losses": 7,
+        "overall": "6-17-0"
+    },
+    {
+        "seasonId": 9,
+        "conferenceId": 4,
+        "teamId": 27,
+        "wins": 2,
+        "losses": 9,
+        "overall": "7-16-0"
+    },
+    {
+        "seasonId": 10,
+        "conferenceId": 4,
+        "teamId": 27,
+        "wins": 7,
+        "losses": 5,
+        "overall": "14-9-0"
+    },
+    {
+        "seasonId": 11,
+        "conferenceId": 4,
+        "teamId": 27,
+        "wins": 4,
+        "losses": 9,
+        "overall": "7-17-0"
+    },
+    {
+        "seasonId": 12,
+        "conferenceId": 4,
+        "teamId": 27,
+        "wins": 6,
+        "losses": 7,
+        "overall": "6-17-0"
+    },
+    {
+        "seasonId": 13,
+        "conferenceId": 4,
+        "teamId": 27,
+        "wins": 7,
+        "losses": 6,
+        "overall": "10-13-0"
+    },
+    {
+        "seasonId": 14,
+        "conferenceId": 4,
+        "teamId": 27,
+        "wins": 5,
+        "losses": 8,
+        "overall": "11-11-0"
+    },
+    {
+        "seasonId": 15,
+        "conferenceId": 4,
+        "teamId": 27,
+        "wins": 4,
+        "losses": 8,
+        "overall": "8-13-0"
+    },
+    {
+        "seasonId": 16,
+        "conferenceId": 4,
+        "teamId": 27,
+        "wins": 6,
+        "losses": 6,
+        "overall": "16-7-0"
+    },
+    {
+        "seasonId": 17,
+        "conferenceId": 4,
+        "teamId": 27,
+        "wins": 13,
+        "losses": 4,
+        "overall": "16-8-0"
+    },
+    {
+        "seasonId": 18,
+        "conferenceId": 4,
+        "teamId": 27,
+        "wins": 7,
+        "losses": 7,
+        "overall": "13-10-0"
+    },
+    {
+        "seasonId": 19,
+        "conferenceId": 4,
+        "teamId": 27,
+        "wins": 10,
+        "losses": 4,
+        "overall": "17-6-0"
+    },
+    {
+        "seasonId": 20,
+        "conferenceId": 4,
+        "teamId": 27,
+        "wins": 4,
+        "losses": 9,
+        "overall": "8-12-0"
+    },
+    {
+        "seasonId": 1,
+        "conferenceId": 4,
+        "teamId": 28,
+        "wins": 9,
+        "losses": 3,
+        "overall": "13-11-0"
+    },
+    {
+        "seasonId": 3,
+        "conferenceId": 4,
+        "teamId": 28,
+        "wins": 0,
+        "losses": 0,
+        "overall": "0-0-0"
+    },
+    {
+        "seasonId": 4,
+        "conferenceId": 4,
+        "teamId": 28,
+        "wins": 7,
+        "losses": 4,
+        "overall": "10-12-0"
+    },
+    {
+        "seasonId": 5,
+        "conferenceId": 4,
+        "teamId": 28,
+        "wins": 5,
+        "losses": 7,
+        "overall": "10-13-0"
+    },
+    {
+        "seasonId": 6,
+        "conferenceId": 4,
+        "teamId": 28,
+        "wins": 11,
+        "losses": 1,
+        "overall": "20-5-0"
+    },
+    {
+        "seasonId": 7,
+        "conferenceId": 4,
+        "teamId": 28,
+        "wins": 10,
+        "losses": 2,
+        "overall": "18-7-0"
+    },
+    {
+        "seasonId": 8,
+        "conferenceId": 4,
+        "teamId": 28,
+        "wins": 4,
+        "losses": 8,
+        "overall": "5-18-0"
+    },
+    {
+        "seasonId": 9,
+        "conferenceId": 4,
+        "teamId": 28,
+        "wins": 7,
+        "losses": 4,
+        "overall": "11-12-0"
+    },
+    {
+        "seasonId": 10,
+        "conferenceId": 4,
+        "teamId": 28,
+        "wins": 10,
+        "losses": 2,
+        "overall": "20-5-0"
+    },
+    {
+        "seasonId": 11,
+        "conferenceId": 4,
+        "teamId": 28,
+        "wins": 9,
+        "losses": 4,
+        "overall": "17-7-0"
+    },
+    {
+        "seasonId": 12,
+        "conferenceId": 4,
+        "teamId": 28,
+        "wins": 4,
+        "losses": 9,
+        "overall": "6-16-0"
+    },
+    {
+        "seasonId": 13,
+        "conferenceId": 4,
+        "teamId": 28,
+        "wins": 9,
+        "losses": 4,
+        "overall": "15-7-0"
+    },
+    {
+        "seasonId": 14,
+        "conferenceId": 4,
+        "teamId": 28,
+        "wins": 10,
+        "losses": 3,
+        "overall": "13-9-0"
+    },
+    {
+        "seasonId": 15,
+        "conferenceId": 4,
+        "teamId": 28,
+        "wins": 10,
+        "losses": 2,
+        "overall": "17-6-0"
+    },
+    {
+        "seasonId": 16,
+        "conferenceId": 4,
+        "teamId": 28,
+        "wins": 12,
+        "losses": 0,
+        "overall": "23-3-0"
+    },
+    {
+        "seasonId": 17,
+        "conferenceId": 4,
+        "teamId": 28,
+        "wins": 12,
+        "losses": 1,
+        "overall": "19-3-0"
+    },
+    {
+        "seasonId": 18,
+        "conferenceId": 4,
+        "teamId": 28,
+        "wins": 11,
+        "losses": 2,
+        "overall": "20-6-0"
+    },
+    {
+        "seasonId": 19,
+        "conferenceId": 4,
+        "teamId": 28,
+        "wins": 13,
+        "losses": 1,
+        "overall": "23-3-0"
+    },
+    {
+        "seasonId": 20,
+        "conferenceId": 4,
+        "teamId": 28,
+        "wins": 7,
+        "losses": 6,
+        "overall": "9-7-0"
+    },
+    {
+        "seasonId": 1,
+        "conferenceId": 4,
+        "teamId": 29,
+        "wins": 7,
+        "losses": 5,
+        "overall": "14-9-0"
+    },
+    {
+        "seasonId": 3,
+        "conferenceId": 4,
+        "teamId": 29,
+        "wins": 0,
+        "losses": 0,
+        "overall": "0-0-0"
+    },
+    {
+        "seasonId": 4,
+        "conferenceId": 4,
+        "teamId": 29,
+        "wins": 6,
+        "losses": 6,
+        "overall": "10-13-0"
+    },
+    {
+        "seasonId": 5,
+        "conferenceId": 4,
+        "teamId": 29,
+        "wins": 2,
+        "losses": 10,
+        "overall": "4-20-0"
+    },
+    {
+        "seasonId": 6,
+        "conferenceId": 4,
+        "teamId": 29,
+        "wins": 7,
+        "losses": 5,
+        "overall": "11-12-0"
+    },
+    {
+        "seasonId": 7,
+        "conferenceId": 4,
+        "teamId": 29,
+        "wins": 5,
+        "losses": 7,
+        "overall": "10-14-0"
+    },
+    {
+        "seasonId": 8,
+        "conferenceId": 4,
+        "teamId": 29,
+        "wins": 8,
+        "losses": 4,
+        "overall": "11-12-0"
+    },
+    {
+        "seasonId": 9,
+        "conferenceId": 4,
+        "teamId": 29,
+        "wins": 8,
+        "losses": 3,
+        "overall": "16-8-0"
+    },
+    {
+        "seasonId": 10,
+        "conferenceId": 4,
+        "teamId": 29,
+        "wins": 8,
+        "losses": 4,
+        "overall": "17-7-0"
+    },
+    {
+        "seasonId": 11,
+        "conferenceId": 4,
+        "teamId": 29,
+        "wins": 7,
+        "losses": 6,
+        "overall": "14-10-0"
+    },
+    {
+        "seasonId": 12,
+        "conferenceId": 4,
+        "teamId": 29,
+        "wins": 8,
+        "losses": 5,
+        "overall": "16-8-0"
+    },
+    {
+        "seasonId": 13,
+        "conferenceId": 4,
+        "teamId": 29,
+        "wins": 8,
+        "losses": 5,
+        "overall": "15-9-0"
+    },
+    {
+        "seasonId": 14,
+        "conferenceId": 4,
+        "teamId": 29,
+        "wins": 8,
+        "losses": 5,
+        "overall": "11-10-0"
+    },
+    {
+        "seasonId": 15,
+        "conferenceId": 4,
+        "teamId": 29,
+        "wins": 3,
+        "losses": 9,
+        "overall": "9-13-0"
+    },
+    {
+        "seasonId": 16,
+        "conferenceId": 4,
+        "teamId": 29,
+        "wins": 6,
+        "losses": 6,
+        "overall": "10-11-0"
+    },
+    {
+        "seasonId": 17,
+        "conferenceId": 4,
+        "teamId": 29,
+        "wins": 9,
+        "losses": 6,
+        "overall": "12-12-0"
+    },
+    {
+        "seasonId": 18,
+        "conferenceId": 4,
+        "teamId": 29,
+        "wins": 7,
+        "losses": 7,
+        "overall": "9-11-0"
+    },
+    {
+        "seasonId": 19,
+        "conferenceId": 4,
+        "teamId": 29,
+        "wins": 4,
+        "losses": 9,
+        "overall": "9-12-0"
+    },
+    {
+        "seasonId": 20,
+        "conferenceId": 4,
+        "teamId": 29,
+        "wins": 2,
+        "losses": 10,
+        "overall": "4-15-0"
+    },
+    {
+        "seasonId": 1,
+        "conferenceId": 4,
+        "teamId": 30,
+        "wins": 7,
+        "losses": 5,
+        "overall": "9-14-0"
+    },
+    {
+        "seasonId": 3,
+        "conferenceId": 4,
+        "teamId": 30,
+        "wins": 0,
+        "losses": 0,
+        "overall": "0-0-0"
+    },
+    {
+        "seasonId": 4,
+        "conferenceId": 4,
+        "teamId": 30,
+        "wins": 11,
+        "losses": 1,
+        "overall": "22-6-0"
+    },
+    {
+        "seasonId": 5,
+        "conferenceId": 4,
+        "teamId": 30,
+        "wins": 12,
+        "losses": 0,
+        "overall": "24-4-0"
+    },
+    {
+        "seasonId": 6,
+        "conferenceId": 4,
+        "teamId": 30,
+        "wins": 11,
+        "losses": 1,
+        "overall": "22-5-0"
+    },
+    {
+        "seasonId": 7,
+        "conferenceId": 4,
+        "teamId": 30,
+        "wins": 11,
+        "losses": 1,
+        "overall": "19-6-0"
+    },
+    {
+        "seasonId": 8,
+        "conferenceId": 4,
+        "teamId": 30,
+        "wins": 11,
+        "losses": 1,
+        "overall": "18-6-0"
+    },
+    {
+        "seasonId": 9,
+        "conferenceId": 4,
+        "teamId": 30,
+        "wins": 6,
+        "losses": 5,
+        "overall": "12-12-0"
+    },
+    {
+        "seasonId": 10,
+        "conferenceId": 4,
+        "teamId": 30,
+        "wins": 11,
+        "losses": 1,
+        "overall": "17-8-0"
+    },
+    {
+        "seasonId": 11,
+        "conferenceId": 4,
+        "teamId": 30,
+        "wins": 10,
+        "losses": 3,
+        "overall": "20-6-0"
+    },
+    {
+        "seasonId": 12,
+        "conferenceId": 4,
+        "teamId": 30,
+        "wins": 8,
+        "losses": 5,
+        "overall": "14-10-0"
+    },
+    {
+        "seasonId": 13,
+        "conferenceId": 4,
+        "teamId": 30,
+        "wins": 9,
+        "losses": 4,
+        "overall": "18-7-0"
+    },
+    {
+        "seasonId": 14,
+        "conferenceId": 4,
+        "teamId": 30,
+        "wins": 12,
+        "losses": 1,
+        "overall": "22-2-0"
+    },
+    {
+        "seasonId": 15,
+        "conferenceId": 4,
+        "teamId": 30,
+        "wins": 12,
+        "losses": 0,
+        "overall": "21-1-0"
+    },
+    {
+        "seasonId": 16,
+        "conferenceId": 4,
+        "teamId": 30,
+        "wins": 11,
+        "losses": 1,
+        "overall": "20-2-0"
+    },
+    {
+        "seasonId": 17,
+        "conferenceId": 4,
+        "teamId": 30,
+        "wins": 8,
+        "losses": 6,
+        "overall": "14-7-0"
+    },
+    {
+        "seasonId": 18,
+        "conferenceId": 4,
+        "teamId": 30,
+        "wins": 8,
+        "losses": 6,
+        "overall": "11-9-0"
+    },
+    {
+        "seasonId": 19,
+        "conferenceId": 4,
+        "teamId": 30,
+        "wins": 10,
+        "losses": 4,
+        "overall": "12-9-0"
+    },
+    {
+        "seasonId": 20,
+        "conferenceId": 4,
+        "teamId": 30,
+        "wins": 11,
+        "losses": 1,
+        "overall": "19-4-0"
+    },
+    {
+        "seasonId": 1,
+        "conferenceId": 4,
+        "teamId": 31,
+        "wins": 6,
+        "losses": 6,
+        "overall": "12-11-0"
+    },
+    {
+        "seasonId": 3,
+        "conferenceId": 4,
+        "teamId": 31,
+        "wins": 0,
+        "losses": 0,
+        "overall": "0-0-0"
+    },
+    {
+        "seasonId": 4,
+        "conferenceId": 4,
+        "teamId": 31,
+        "wins": 10,
+        "losses": 2,
+        "overall": "16-6-0"
+    },
+    {
+        "seasonId": 5,
+        "conferenceId": 4,
+        "teamId": 31,
+        "wins": 10,
+        "losses": 2,
+        "overall": "16-7-0"
+    },
+    {
+        "seasonId": 6,
+        "conferenceId": 4,
+        "teamId": 31,
+        "wins": 11,
+        "losses": 1,
+        "overall": "18-7-0"
+    },
+    {
+        "seasonId": 7,
+        "conferenceId": 4,
+        "teamId": 31,
+        "wins": 12,
+        "losses": 0,
+        "overall": "22-4-0"
+    },
+    {
+        "seasonId": 8,
+        "conferenceId": 4,
+        "teamId": 31,
+        "wins": 10,
+        "losses": 2,
+        "overall": "20-4-0"
+    },
+    {
+        "seasonId": 9,
+        "conferenceId": 4,
+        "teamId": 31,
+        "wins": 7,
+        "losses": 4,
+        "overall": "18-6-0"
+    },
+    {
+        "seasonId": 10,
+        "conferenceId": 4,
+        "teamId": 31,
+        "wins": 5,
+        "losses": 7,
+        "overall": "7-14-0"
+    },
+    {
+        "seasonId": 11,
+        "conferenceId": 4,
+        "teamId": 31,
+        "wins": 10,
+        "losses": 3,
+        "overall": "18-6-0"
+    },
+    {
+        "seasonId": 12,
+        "conferenceId": 4,
+        "teamId": 31,
+        "wins": 13,
+        "losses": 0,
+        "overall": "23-3-0"
+    },
+    {
+        "seasonId": 13,
+        "conferenceId": 4,
+        "teamId": 31,
+        "wins": 10,
+        "losses": 3,
+        "overall": "15-9-0"
+    },
+    {
+        "seasonId": 14,
+        "conferenceId": 4,
+        "teamId": 31,
+        "wins": 3,
+        "losses": 10,
+        "overall": "6-15-0"
+    },
+    {
+        "seasonId": 15,
+        "conferenceId": 4,
+        "teamId": 31,
+        "wins": 2,
+        "losses": 10,
+        "overall": "4-17-0"
+    },
+    {
+        "seasonId": 16,
+        "conferenceId": 4,
+        "teamId": 31,
+        "wins": 3,
+        "losses": 9,
+        "overall": "9-13-0"
+    },
+    {
+        "seasonId": 17,
+        "conferenceId": 4,
+        "teamId": 31,
+        "wins": 3,
+        "losses": 11,
+        "overall": "6-15-0"
+    },
+    {
+        "seasonId": 18,
+        "conferenceId": 4,
+        "teamId": 31,
+        "wins": 8,
+        "losses": 2,
+        "overall": "12-7-0"
+    },
+    {
+        "seasonId": 19,
+        "conferenceId": 4,
+        "teamId": 31,
+        "wins": 4,
+        "losses": 7,
+        "overall": "9-8-0"
+    },
+    {
+        "seasonId": 20,
+        "conferenceId": 4,
+        "teamId": 31,
+        "wins": 5,
+        "losses": 7,
+        "overall": "10-10-0"
+    },
+    {
+        "seasonId": 1,
+        "conferenceId": 4,
+        "teamId": 32,
+        "wins": 5,
+        "losses": 7,
+        "overall": "10-10-0"
+    },
+    {
+        "seasonId": 3,
+        "conferenceId": 4,
+        "teamId": 32,
+        "wins": 0,
+        "losses": 0,
+        "overall": "0-0-0"
+    },
+    {
+        "seasonId": 4,
+        "conferenceId": 4,
+        "teamId": 32,
+        "wins": 3,
+        "losses": 8,
+        "overall": "4-15-0"
+    },
+    {
+        "seasonId": 5,
+        "conferenceId": 4,
+        "teamId": 32,
+        "wins": 4,
+        "losses": 8,
+        "overall": "9-14-0"
+    },
+    {
+        "seasonId": 6,
+        "conferenceId": 4,
+        "teamId": 32,
+        "wins": 5,
+        "losses": 7,
+        "overall": "8-15-0"
+    },
+    {
+        "seasonId": 7,
+        "conferenceId": 4,
+        "teamId": 32,
+        "wins": 6,
+        "losses": 6,
+        "overall": "17-8-0"
+    },
+    {
+        "seasonId": 8,
+        "conferenceId": 4,
+        "teamId": 32,
+        "wins": 7,
+        "losses": 5,
+        "overall": "12-9-0"
+    },
+    {
+        "seasonId": 9,
+        "conferenceId": 4,
+        "teamId": 32,
+        "wins": 5,
+        "losses": 6,
+        "overall": "9-14-0"
+    },
+    {
+        "seasonId": 10,
+        "conferenceId": 4,
+        "teamId": 32,
+        "wins": 6,
+        "losses": 6,
+        "overall": "11-13-0"
+    },
+    {
+        "seasonId": 11,
+        "conferenceId": 4,
+        "teamId": 32,
+        "wins": 9,
+        "losses": 4,
+        "overall": "17-7-0"
+    },
+    {
+        "seasonId": 12,
+        "conferenceId": 4,
+        "teamId": 32,
+        "wins": 6,
+        "losses": 7,
+        "overall": "10-11-0"
+    },
+    {
+        "seasonId": 13,
+        "conferenceId": 4,
+        "teamId": 32,
+        "wins": 6,
+        "losses": 7,
+        "overall": "10-12-0"
+    },
+    {
+        "seasonId": 14,
+        "conferenceId": 4,
+        "teamId": 32,
+        "wins": 10,
+        "losses": 3,
+        "overall": "18-5-0"
+    },
+    {
+        "seasonId": 15,
+        "conferenceId": 4,
+        "teamId": 32,
+        "wins": 1,
+        "losses": 11,
+        "overall": "3-17-0"
+    },
+    {
+        "seasonId": 16,
+        "conferenceId": 4,
+        "teamId": 32,
+        "wins": 8,
+        "losses": 4,
+        "overall": "15-7-0"
+    },
+    {
+        "seasonId": 17,
+        "conferenceId": 4,
+        "teamId": 32,
+        "wins": 5,
+        "losses": 8,
+        "overall": "9-12-0"
+    },
+    {
+        "seasonId": 18,
+        "conferenceId": 4,
+        "teamId": 32,
+        "wins": 4,
+        "losses": 6,
+        "overall": "6-12-0"
+    },
+    {
+        "seasonId": 19,
+        "conferenceId": 4,
+        "teamId": 32,
+        "wins": 10,
+        "losses": 5,
+        "overall": "12-8-0"
+    },
+    {
+        "seasonId": 20,
+        "conferenceId": 4,
+        "teamId": 32,
+        "wins": 12,
+        "losses": 2,
+        "overall": "17-3-0"
+    },
+    {
+        "seasonId": 1,
+        "conferenceId": 4,
+        "teamId": 33,
+        "wins": 4,
+        "losses": 8,
+        "overall": "7-16-0"
+    },
+    {
+        "seasonId": 3,
+        "conferenceId": 4,
+        "teamId": 33,
+        "wins": 0,
+        "losses": 0,
+        "overall": "0-0-0"
+    },
+    {
+        "seasonId": 4,
+        "conferenceId": 4,
+        "teamId": 33,
+        "wins": 4,
+        "losses": 7,
+        "overall": "8-16-0"
+    },
+    {
+        "seasonId": 5,
+        "conferenceId": 4,
+        "teamId": 33,
+        "wins": 5,
+        "losses": 7,
+        "overall": "6-17-0"
+    },
+    {
+        "seasonId": 6,
+        "conferenceId": 4,
+        "teamId": 33,
+        "wins": 4,
+        "losses": 8,
+        "overall": "7-17-0"
+    },
+    {
+        "seasonId": 7,
+        "conferenceId": 4,
+        "teamId": 33,
+        "wins": 3,
+        "losses": 9,
+        "overall": "6-16-0"
+    },
+    {
+        "seasonId": 8,
+        "conferenceId": 4,
+        "teamId": 33,
+        "wins": 2,
+        "losses": 10,
+        "overall": "4-20-0"
+    },
+    {
+        "seasonId": 9,
+        "conferenceId": 4,
+        "teamId": 33,
+        "wins": 6,
+        "losses": 5,
+        "overall": "17-8-0"
+    },
+    {
+        "seasonId": 10,
+        "conferenceId": 4,
+        "teamId": 33,
+        "wins": 4,
+        "losses": 8,
+        "overall": "8-16-0"
+    },
+    {
+        "seasonId": 11,
+        "conferenceId": 4,
+        "teamId": 33,
+        "wins": 5,
+        "losses": 8,
+        "overall": "9-15-0"
+    },
+    {
+        "seasonId": 12,
+        "conferenceId": 4,
+        "teamId": 33,
+        "wins": 6,
+        "losses": 7,
+        "overall": "12-12-0"
+    },
+    {
+        "seasonId": 13,
+        "conferenceId": 4,
+        "teamId": 33,
+        "wins": 8,
+        "losses": 5,
+        "overall": "15-9-0"
+    },
+    {
+        "seasonId": 14,
+        "conferenceId": 4,
+        "teamId": 33,
+        "wins": 3,
+        "losses": 10,
+        "overall": "6-17-0"
+    },
+    {
+        "seasonId": 15,
+        "conferenceId": 4,
+        "teamId": 33,
+        "wins": 8,
+        "losses": 4,
+        "overall": "15-7-0"
+    },
+    {
+        "seasonId": 16,
+        "conferenceId": 4,
+        "teamId": 33,
+        "wins": 9,
+        "losses": 3,
+        "overall": "17-7-0"
+    },
+    {
+        "seasonId": 17,
+        "conferenceId": 4,
+        "teamId": 33,
+        "wins": 9,
+        "losses": 5,
+        "overall": "16-6-0"
+    },
+    {
+        "seasonId": 18,
+        "conferenceId": 4,
+        "teamId": 33,
+        "wins": 11,
+        "losses": 3,
+        "overall": "17-4-0"
+    },
+    {
+        "seasonId": 19,
+        "conferenceId": 4,
+        "teamId": 33,
+        "wins": 12,
+        "losses": 4,
+        "overall": "18-5-0"
+    },
+    {
+        "seasonId": 20,
+        "conferenceId": 4,
+        "teamId": 33,
+        "wins": 6,
+        "losses": 7,
+        "overall": "10-8-0"
+    },
+    {
+        "seasonId": 1,
+        "conferenceId": 4,
+        "teamId": 34,
+        "wins": 4,
+        "losses": 8,
+        "overall": "6-13-0"
+    },
+    {
+        "seasonId": 3,
+        "conferenceId": 4,
+        "teamId": 34,
+        "wins": 0,
+        "losses": 0,
+        "overall": "0-0-0"
+    },
+    {
+        "seasonId": 4,
+        "conferenceId": 4,
+        "teamId": 34,
+        "wins": 1,
+        "losses": 10,
+        "overall": "3-15-0"
+    },
+    {
+        "seasonId": 5,
+        "conferenceId": 4,
+        "teamId": 34,
+        "wins": 8,
+        "losses": 4,
+        "overall": "16-7-0"
+    },
+    {
+        "seasonId": 6,
+        "conferenceId": 4,
+        "teamId": 34,
+        "wins": 6,
+        "losses": 6,
+        "overall": "13-12-0"
+    },
+    {
+        "seasonId": 7,
+        "conferenceId": 4,
+        "teamId": 34,
+        "wins": 6,
+        "losses": 6,
+        "overall": "13-11-0"
+    },
+    {
+        "seasonId": 8,
+        "conferenceId": 4,
+        "teamId": 34,
+        "wins": 0,
+        "losses": 12,
+        "overall": "2-20-0"
+    },
+    {
+        "seasonId": 10,
+        "conferenceId": 4,
+        "teamId": 34,
+        "wins": 0,
+        "losses": 12,
+        "overall": "4-15-0"
+    },
+    {
+        "seasonId": 11,
+        "conferenceId": 4,
+        "teamId": 34,
+        "wins": 2,
+        "losses": 11,
+        "overall": "6-17-0"
+    },
+    {
+        "seasonId": 12,
+        "conferenceId": 4,
+        "teamId": 34,
+        "wins": 3,
+        "losses": 10,
+        "overall": "4-19-0"
+    },
+    {
+        "seasonId": 13,
+        "conferenceId": 4,
+        "teamId": 34,
+        "wins": 1,
+        "losses": 12,
+        "overall": "2-19-0"
+    },
+    {
+        "seasonId": 14,
+        "conferenceId": 4,
+        "teamId": 34,
+        "wins": 7,
+        "losses": 6,
+        "overall": "11-11-0"
+    },
+    {
+        "seasonId": 15,
+        "conferenceId": 4,
+        "teamId": 34,
+        "wins": 10,
+        "losses": 2,
+        "overall": "18-5-0"
+    },
+    {
+        "seasonId": 16,
+        "conferenceId": 4,
+        "teamId": 34,
+        "wins": 6,
+        "losses": 6,
+        "overall": "8-14-0"
+    },
+    {
+        "seasonId": 17,
+        "conferenceId": 4,
+        "teamId": 34,
+        "wins": 7,
+        "losses": 6,
+        "overall": "11-10-0"
+    },
+    {
+        "seasonId": 18,
+        "conferenceId": 4,
+        "teamId": 34,
+        "wins": 4,
+        "losses": 7,
+        "overall": "5-13-0"
+    },
+    {
+        "seasonId": 19,
+        "conferenceId": 4,
+        "teamId": 34,
+        "wins": 6,
+        "losses": 7,
+        "overall": "9-12-0"
+    },
+    {
+        "seasonId": 20,
+        "conferenceId": 4,
+        "teamId": 34,
+        "wins": 10,
+        "losses": 3,
+        "overall": "19-4-0"
+    },
+    {
+        "seasonId": 1,
+        "conferenceId": 4,
+        "teamId": 35,
+        "wins": 3,
+        "losses": 9,
+        "overall": "3-18-0"
+    },
+    {
+        "seasonId": 3,
+        "conferenceId": 4,
+        "teamId": 35,
+        "wins": 0,
+        "losses": 0,
+        "overall": "0-0-0"
+    },
+    {
+        "seasonId": 4,
+        "conferenceId": 4,
+        "teamId": 35,
+        "wins": 8,
+        "losses": 3,
+        "overall": "18-6-0"
+    },
+    {
+        "seasonId": 5,
+        "conferenceId": 4,
+        "teamId": 35,
+        "wins": 8,
+        "losses": 4,
+        "overall": "13-9-0"
+    },
+    {
+        "seasonId": 6,
+        "conferenceId": 4,
+        "teamId": 35,
+        "wins": 0,
+        "losses": 12,
+        "overall": "1-19-0"
+    },
+    {
+        "seasonId": 7,
+        "conferenceId": 4,
+        "teamId": 35,
+        "wins": 0,
+        "losses": 12,
+        "overall": "5-17-0"
+    },
+    {
+        "seasonId": 8,
+        "conferenceId": 4,
+        "teamId": 35,
+        "wins": 5,
+        "losses": 7,
+        "overall": "5-12-0"
+    },
+    {
+        "seasonId": 9,
+        "conferenceId": 4,
+        "teamId": 35,
+        "wins": 1,
+        "losses": 10,
+        "overall": "3-16-0"
+    },
+    {
+        "seasonId": 10,
+        "conferenceId": 4,
+        "teamId": 35,
+        "wins": 3,
+        "losses": 9,
+        "overall": "6-13-0"
+    },
+    {
+        "seasonId": 11,
+        "conferenceId": 4,
+        "teamId": 35,
+        "wins": 4,
+        "losses": 9,
+        "overall": "12-12-0"
+    },
+    {
+        "seasonId": 12,
+        "conferenceId": 4,
+        "teamId": 35,
+        "wins": 1,
+        "losses": 12,
+        "overall": "8-15-0"
+    },
+    {
+        "seasonId": 13,
+        "conferenceId": 4,
+        "teamId": 35,
+        "wins": 0,
+        "losses": 13,
+        "overall": "2-19-0"
+    },
+    {
+        "seasonId": 14,
+        "conferenceId": 4,
+        "teamId": 35,
+        "wins": 4,
+        "losses": 9,
+        "overall": "6-15-0"
+    },
+    {
+        "seasonId": 15,
+        "conferenceId": 4,
+        "teamId": 35,
+        "wins": 7,
+        "losses": 5,
+        "overall": "9-12-0"
+    },
+    {
+        "seasonId": 16,
+        "conferenceId": 4,
+        "teamId": 35,
+        "wins": 4,
+        "losses": 8,
+        "overall": "10-11-0"
+    },
+    {
+        "seasonId": 17,
+        "conferenceId": 4,
+        "teamId": 35,
+        "wins": 1,
+        "losses": 13,
+        "overall": "3-18-0"
+    },
+    {
+        "seasonId": 18,
+        "conferenceId": 4,
+        "teamId": 35,
+        "wins": 1,
+        "losses": 12,
+        "overall": "1-17-0"
+    },
+    {
+        "seasonId": 19,
+        "conferenceId": 4,
+        "teamId": 35,
+        "wins": 1,
+        "losses": 11,
+        "overall": "2-16-0"
+    },
+    {
+        "seasonId": 20,
+        "conferenceId": 4,
+        "teamId": 35,
+        "wins": 3,
+        "losses": 7,
+        "overall": "5-12-0"
+    },
+    {
+        "seasonId": 1,
+        "conferenceId": 4,
+        "teamId": 36,
+        "wins": 1,
+        "losses": 11,
+        "overall": "5-18-0"
+    },
+    {
+        "seasonId": 3,
+        "conferenceId": 4,
+        "teamId": 36,
+        "wins": 0,
+        "losses": 0,
+        "overall": "0-0-0"
+    },
+    {
+        "seasonId": 4,
+        "conferenceId": 4,
+        "teamId": 36,
+        "wins": 1,
+        "losses": 10,
+        "overall": "2-19-0"
+    },
+    {
+        "seasonId": 5,
+        "conferenceId": 4,
+        "teamId": 36,
+        "wins": 3,
+        "losses": 9,
+        "overall": "8-14-0"
+    },
+    {
+        "seasonId": 6,
+        "conferenceId": 4,
+        "teamId": 36,
+        "wins": 3,
+        "losses": 9,
+        "overall": "11-12-0"
+    },
+    {
+        "seasonId": 7,
+        "conferenceId": 4,
+        "teamId": 36,
+        "wins": 5,
+        "losses": 7,
+        "overall": "13-11-0"
+    },
+    {
+        "seasonId": 8,
+        "conferenceId": 4,
+        "teamId": 36,
+        "wins": 5,
+        "losses": 7,
+        "overall": "16-9-0"
+    },
+    {
+        "seasonId": 9,
+        "conferenceId": 4,
+        "teamId": 36,
+        "wins": 1,
+        "losses": 10,
+        "overall": "7-17-0"
+    },
+    {
+        "seasonId": 10,
+        "conferenceId": 4,
+        "teamId": 36,
+        "wins": 1,
+        "losses": 11,
+        "overall": "9-15-0"
+    },
+    {
+        "seasonId": 11,
+        "conferenceId": 4,
+        "teamId": 36,
+        "wins": 1,
+        "losses": 12,
+        "overall": "3-20-0"
+    },
+    {
+        "seasonId": 12,
+        "conferenceId": 4,
+        "teamId": 36,
+        "wins": 0,
+        "losses": 13,
+        "overall": "4-18-0"
+    },
+    {
+        "seasonId": 13,
+        "conferenceId": 4,
+        "teamId": 36,
+        "wins": 3,
+        "losses": 10,
+        "overall": "5-14-0"
+    },
+    {
+        "seasonId": 14,
+        "conferenceId": 4,
+        "teamId": 36,
+        "wins": 5,
+        "losses": 8,
+        "overall": "8-13-0"
+    },
+    {
+        "seasonId": 15,
+        "conferenceId": 4,
+        "teamId": 36,
+        "wins": 5,
+        "losses": 7,
+        "overall": "10-12-0"
+    },
+    {
+        "seasonId": 16,
+        "conferenceId": 4,
+        "teamId": 36,
+        "wins": 1,
+        "losses": 11,
+        "overall": "4-19-0"
+    },
+    {
+        "seasonId": 17,
+        "conferenceId": 4,
+        "teamId": 36,
+        "wins": 5,
+        "losses": 8,
+        "overall": "11-11-0"
+    },
+    {
+        "seasonId": 18,
+        "conferenceId": 4,
+        "teamId": 36,
+        "wins": 4,
+        "losses": 9,
+        "overall": "6-15-0"
+    },
+    {
+        "seasonId": 19,
+        "conferenceId": 4,
+        "teamId": 36,
+        "wins": 1,
+        "losses": 12,
+        "overall": "2-17-0"
+    },
+    {
+        "seasonId": 20,
+        "conferenceId": 4,
+        "teamId": 36,
+        "wins": 5,
+        "losses": 6,
+        "overall": "8-10-0"
+    },
+    {
+        "seasonId": 1,
+        "conferenceId": 4,
+        "teamId": 37,
+        "wins": 0,
+        "losses": 12,
+        "overall": "1-22-0"
+    },
+    {
+        "seasonId": 3,
+        "conferenceId": 4,
+        "teamId": 37,
+        "wins": 0,
+        "losses": 0,
+        "overall": "0-0-0"
+    },
+    {
+        "seasonId": 4,
+        "conferenceId": 4,
+        "teamId": 37,
+        "wins": 0,
+        "losses": 12,
+        "overall": "3-20-0"
+    },
+    {
+        "seasonId": 5,
+        "conferenceId": 4,
+        "teamId": 37,
+        "wins": 0,
+        "losses": 12,
+        "overall": "5-19-0"
+    },
+    {
+        "seasonId": 6,
+        "conferenceId": 4,
+        "teamId": 37,
+        "wins": 3,
+        "losses": 9,
+        "overall": "5-16-0"
+    },
+    {
+        "seasonId": 7,
+        "conferenceId": 4,
+        "teamId": 37,
+        "wins": 1,
+        "losses": 11,
+        "overall": "4-17-0"
+    },
+    {
+        "seasonId": 8,
+        "conferenceId": 4,
+        "teamId": 37,
+        "wins": 2,
+        "losses": 10,
+        "overall": "2-20-0"
+    },
+    {
+        "seasonId": 9,
+        "conferenceId": 4,
+        "teamId": 37,
+        "wins": 2,
+        "losses": 9,
+        "overall": "10-12-0"
+    },
+    {
+        "seasonId": 10,
+        "conferenceId": 4,
+        "teamId": 37,
+        "wins": 2,
+        "losses": 10,
+        "overall": "7-17-0"
+    },
+    {
+        "seasonId": 11,
+        "conferenceId": 4,
+        "teamId": 37,
+        "wins": 0,
+        "losses": 13,
+        "overall": "1-22-0"
+    },
+    {
+        "seasonId": 12,
+        "conferenceId": 4,
+        "teamId": 37,
+        "wins": 9,
+        "losses": 4,
+        "overall": "15-9-0"
+    },
+    {
+        "seasonId": 13,
+        "conferenceId": 4,
+        "teamId": 37,
+        "wins": 6,
+        "losses": 7,
+        "overall": "12-9-0"
+    },
+    {
+        "seasonId": 14,
+        "conferenceId": 4,
+        "teamId": 37,
+        "wins": 1,
+        "losses": 12,
+        "overall": "5-16-0"
+    },
+    {
+        "seasonId": 15,
+        "conferenceId": 4,
+        "teamId": 37,
+        "wins": 6,
+        "losses": 6,
+        "overall": "13-9-0"
+    },
+    {
+        "seasonId": 16,
+        "conferenceId": 4,
+        "teamId": 37,
+        "wins": 2,
+        "losses": 10,
+        "overall": "5-16-0"
+    },
+    {
+        "seasonId": 17,
+        "conferenceId": 4,
+        "teamId": 37,
+        "wins": 4,
+        "losses": 10,
+        "overall": "8-12-0"
+    },
+    {
+        "seasonId": 18,
+        "conferenceId": 4,
+        "teamId": 37,
+        "wins": 2,
+        "losses": 10,
+        "overall": "3-14-0"
+    },
+    {
+        "seasonId": 19,
+        "conferenceId": 4,
+        "teamId": 37,
+        "wins": 0,
+        "losses": 12,
+        "overall": "1-16-0"
+    },
+    {
+        "seasonId": 20,
+        "conferenceId": 4,
+        "teamId": 37,
+        "wins": 1,
+        "losses": 13,
+        "overall": "3-16-0"
+    },
+    {
+        "seasonId": 10,
+        "conferenceId": 4,
+        "teamId": 38,
+        "wins": 0,
+        "losses": 0,
+        "overall": "0-0-0"
+    },
+    {
+        "seasonId": 11,
+        "conferenceId": 4,
+        "teamId": 38,
+        "wins": 8,
+        "losses": 5,
+        "overall": "15-8-0"
+    },
+    {
+        "seasonId": 12,
+        "conferenceId": 4,
+        "teamId": 38,
+        "wins": 6,
+        "losses": 7,
+        "overall": "12-11-0"
+    },
+    {
+        "seasonId": 13,
+        "conferenceId": 4,
+        "teamId": 38,
+        "wins": 2,
+        "losses": 11,
+        "overall": "6-16-0"
+    },
+    {
+        "seasonId": 14,
+        "conferenceId": 4,
+        "teamId": 38,
+        "wins": 2,
+        "losses": 11,
+        "overall": "6-16-0"
+    },
+    {
+        "seasonId": 17,
+        "conferenceId": 4,
+        "teamId": 39,
+        "wins": 6,
+        "losses": 7,
+        "overall": "11-10-0"
+    },
+    {
+        "seasonId": 18,
+        "conferenceId": 4,
+        "teamId": 39,
+        "wins": 10,
+        "losses": 3,
+        "overall": "17-6-0"
+    },
+    {
+        "seasonId": 19,
+        "conferenceId": 4,
+        "teamId": 39,
+        "wins": 5,
+        "losses": 8,
+        "overall": "13-9-0"
+    },
+    {
+        "seasonId": 20,
+        "conferenceId": 4,
+        "teamId": 39,
+        "wins": 8,
+        "losses": 4,
+        "overall": "18-6-0"
+    },
+    {
+        "seasonId": 18,
+        "conferenceId": 4,
+        "teamId": 40,
+        "wins": 0,
+        "losses": 0,
+        "overall": "2-7-0"
+    },
+    {
+        "seasonId": 19,
+        "conferenceId": 4,
+        "teamId": 40,
+        "wins": 0,
+        "losses": 0,
+        "overall": "1-8-0"
+    },
+    {
+        "seasonId": 20,
+        "conferenceId": 4,
+        "teamId": 40,
+        "wins": 0,
+        "losses": 0,
+        "overall": "0-18-0"
+    }
+]
