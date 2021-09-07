@@ -10,5 +10,69 @@
     {
         "id": 4,
         "seasonString": "2018-19"
+    },
+    {
+        "id": 5,
+        "seasonString": "2017-18"
+    },
+    {
+        "id": 6,
+        "seasonString": "2016-17"
+    },
+    {
+        "id": 7,
+        "seasonString": "2015-16"
+    },
+    {
+        "id": 8,
+        "seasonString": "2014-15"
+    },
+    {
+        "id": 9,
+        "seasonString": "2013-14"
+    },
+    {
+        "id": 10,
+        "seasonString": "2012-13"
+    },
+    {
+        "id": 11,
+        "seasonString": "2011-12"
+    },
+    {
+        "id": 12,
+        "seasonString": "2010-11"
+    },
+    {
+        "id": 13,
+        "seasonString": "2009-10"
+    },
+    {
+        "id": 14,
+        "seasonString": "2008-09"
+    },
+    {
+        "id": 15,
+        "seasonString": "2007-08"
+    },
+    {
+        "id": 16,
+        "seasonString": "2006-07"
+    },
+    {
+        "id": 17,
+        "seasonString": "2005-06"
+    },
+    {
+        "id": 18,
+        "seasonString": "2004-05"
+    },
+    {
+        "id": 19,
+        "seasonString": "2003-04"
+    },
+    {
+        "id": 20,
+        "seasonString": "2002-03"
     }
 ]

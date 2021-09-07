@@ -53,5 +53,290 @@
         "id": 12,
         "teamName": "Ironwood (MI)",
         "town": null
+    },
+    {
+        "id": 13,
+        "teamName": "Butternut (use other Butternut",
+        "town": null
+    },
+    {
+        "id": 15,
+        "teamName": "Madison La Follette",
+        "town": null
+    },
+    {
+        "id": 16,
+        "teamName": "Madison East",
+        "town": null
+    },
+    {
+        "id": 17,
+        "teamName": "Madison Memorial",
+        "town": null
+    },
+    {
+        "id": 18,
+        "teamName": "Sun Prairie",
+        "town": null
+    },
+    {
+        "id": 19,
+        "teamName": "Janesville Craig",
+        "town": null
+    },
+    {
+        "id": 20,
+        "teamName": "Madison West",
+        "town": null
+    },
+    {
+        "id": 21,
+        "teamName": "Middleton",
+        "town": null
+    },
+    {
+        "id": 22,
+        "teamName": "Beloit Memorial",
+        "town": null
+    },
+    {
+        "id": 23,
+        "teamName": "Verona",
+        "town": null
+    },
+    {
+        "id": 24,
+        "teamName": "Janesville Parker",
+        "town": null
+    },
+    {
+        "id": 25,
+        "teamName": "Milwaukee King",
+        "town": null
+    },
+    {
+        "id": 26,
+        "teamName": "Milwaukee Hamilton",
+        "town": null
+    },
+    {
+        "id": 27,
+        "teamName": "Milwaukee Bay View",
+        "town": null
+    },
+    {
+        "id": 28,
+        "teamName": "Milwaukee Vincent",
+        "town": null
+    },
+    {
+        "id": 29,
+        "teamName": "Milwaukee South",
+        "town": null
+    },
+    {
+        "id": 30,
+        "teamName": "Milwaukee Washington",
+        "town": null
+    },
+    {
+        "id": 31,
+        "teamName": "Milwaukee Riverside",
+        "town": null
+    },
+    {
+        "id": 32,
+        "teamName": "Milwaukee Marshall",
+        "town": null
+    },
+    {
+        "id": 33,
+        "teamName": "Milwaukee Bradley Tech",
+        "town": null
+    },
+    {
+        "id": 34,
+        "teamName": "Obama SCTE",
+        "town": null
+    },
+    {
+        "id": 35,
+        "teamName": "Milwaukee Madison",
+        "town": null
+    },
+    {
+        "id": 36,
+        "teamName": "Milwaukee North",
+        "town": null
+    },
+    {
+        "id": 37,
+        "teamName": "Milwaukee Pulaski",
+        "town": null
+    },
+    {
+        "id": 38,
+        "teamName": "Milwaukee Northwest",
+        "town": null
+    },
+    {
+        "id": 39,
+        "teamName": "Milwaukee Juneau",
+        "town": null
+    },
+    {
+        "id": 40,
+        "teamName": "Milwaukee School of Languages",
+        "town": null
+    },
+    {
+        "id": 41,
+        "teamName": "Cameron",
+        "town": null
+    },
+    {
+        "id": 42,
+        "teamName": "Cumberland",
+        "town": null
+    },
+    {
+        "id": 43,
+        "teamName": "Northwestern",
+        "town": null
+    },
+    {
+        "id": 44,
+        "teamName": "Bloomer",
+        "town": null
+    },
+    {
+        "id": 45,
+        "teamName": "Chetek-Weyerhaeuser",
+        "town": null
+    },
+    {
+        "id": 46,
+        "teamName": "Hayward",
+        "town": null
+    },
+    {
+        "id": 47,
+        "teamName": "Ladysmith",
+        "town": null
+    },
+    {
+        "id": 48,
+        "teamName": "Barron",
+        "town": null
+    },
+    {
+        "id": 49,
+        "teamName": "Spooner",
+        "town": null
+    },
+    {
+        "id": 50,
+        "teamName": "Saint Croix Falls",
+        "town": null
+    },
+    {
+        "id": 51,
+        "teamName": "Chetek -- See Chetek-Weyerhaeu",
+        "town": null
+    },
+    {
+        "id": 52,
+        "teamName": "Racine St. Catherine's",
+        "town": null
+    },
+    {
+        "id": 53,
+        "teamName": "Dominican",
+        "town": null
+    },
+    {
+        "id": 54,
+        "teamName": "Martin Luther",
+        "town": null
+    },
+    {
+        "id": 55,
+        "teamName": "Catholic Central",
+        "town": null
+    },
+    {
+        "id": 56,
+        "teamName": "Kenosha St. Joseph",
+        "town": null
+    },
+    {
+        "id": 57,
+        "teamName": "The Prairie School",
+        "town": null
+    },
+    {
+        "id": 58,
+        "teamName": "Racine Lutheran",
+        "town": null
+    },
+    {
+        "id": 59,
+        "teamName": "Saint Thomas More",
+        "town": null
+    },
+    {
+        "id": 60,
+        "teamName": "Shoreland Lutheran",
+        "town": null
+    },
+    {
+        "id": 61,
+        "teamName": "Kenosha Christian Life",
+        "town": null
+    },
+    {
+        "id": 62,
+        "teamName": "Heritage Christian",
+        "town": null
+    },
+    {
+        "id": 63,
+        "teamName": "Messmer",
+        "town": null
+    },
+    {
+        "id": 64,
+        "teamName": "HOPE Christian",
+        "town": null
+    },
+    {
+        "id": 65,
+        "teamName": "Brookfield Academy",
+        "town": null
+    },
+    {
+        "id": 66,
+        "teamName": "Saint John's NW",
+        "town": null
+    },
+    {
+        "id": 67,
+        "teamName": "Lake Country Lutheran",
+        "town": null
+    },
+    {
+        "id": 68,
+        "teamName": "Living Word Lutheran",
+        "town": null
+    },
+    {
+        "id": 69,
+        "teamName": "Wayland Academy",
+        "town": null
+    },
+    {
+        "id": 70,
+        "teamName": "University School",
+        "town": null
     }
 ]

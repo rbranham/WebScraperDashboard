@@ -30,7 +30,7 @@ def replaceSeasonId(statDF, seasonDF):
 
 def loadConferenceStats(confId: int):
     """ Function to load stats, currently returns mock data"""
-    return json.load(open('sample_json/conference_one.json'))
+    return json.load(open('sample_json/conference_four.json'))
 
 
 def addPercentage(statDF):
@@ -50,6 +50,8 @@ statsDF = replaceTeamID(statsDF, teamList)
 statsDF = replaceSeasonId(statsDF, seasonList)
 statsDF = addPercentage(statsDF)
 
+# print(statsDF)
+
 statsDF = statsDF.sort_values(by='seasonId')
 
 ########################### Dash Code #####################################
@@ -63,7 +65,8 @@ app.layout = html.Div([
     dcc.Graph(
         id='line-graph',
         figure=fig
-    )
+    ),
+
 ])
 
 # Press the green button in the gutter to run the script.
