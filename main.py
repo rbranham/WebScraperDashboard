@@ -39,8 +39,6 @@ def addPercentage(statDF):
     return statDF
 
 
-
-
 # Set up dataframe
 statsDF = pd.DataFrame.from_dict(loadConferenceStats(1))
 teamList = pd.DataFrame.from_dict(loadTeams())
@@ -53,8 +51,29 @@ statsDF = addPercentage(statsDF)
 # print(statsDF)
 
 statsDF = statsDF.sort_values(by='seasonId')
-
+statsDF.dropna()
+newDF = statsDF.groupby('teamId')['win_pct'].mean().to_frame()
+print(newDF)
+print(type(newDF))
 ########################### Dash Code #####################################
+
+
+def gen_table():
+    return html.Table([
+        html.Thead(
+            html.Tr([
+                html.Th("School Name"),
+                html.Th("Average Win pct")
+            ]),
+        ),
+        html.Tbody([
+            html.Tr([
+                html.Td(newDF[i][0]),
+                html.Td(newDF[i][1])
+            ]) for i in range(0, len(newDF))
+        ])
+    ])
+
 
 external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
 app = dash.Dash(__name__, external_stylesheets=external_stylesheets)
@@ -66,14 +85,15 @@ app.layout = html.Div([
         id='line-graph',
         figure=fig
     ),
-
+    gen_table()
 ])
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     """Main function"""
-    print(statsDF)
-    app.run_server(debug=True)
+    print("done")
+    #print(statsDF)
+    #app.run_server(debug=True)
 
     # teams = loadTeams()
     # for team in teams:
